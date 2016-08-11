@@ -1,0 +1,7 @@
+BLG			KEYWORD1
+wakeSensor	KEYWORD2
+initPoll	KEYWORD2
+readCO2		KEYWORD2
+readTemp	KEYWORD2
+readRh		KEYWORD2
+calibrate	KEYWORD2
